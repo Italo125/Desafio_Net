@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADOCRUD7_0.props" />
+</Project>
